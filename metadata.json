@@ -1,0 +1,10 @@
+{
+  "name": "Misi Selamatkan Mimi",
+  "description": "Permainan pendidikan interaktif pra-sekolah membina urutan bunyi kenderaan bersama Mimi.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
